@@ -1,7 +1,5 @@
 # Scapy Class Participation — CS6903 Network Security
 
-I haven't participated in the class presentation, so I am implementing 2 tasks (task7 and task11).
-
 - Task 7: UDP Scanner
 - Task 11: DNS Spoofing
 
